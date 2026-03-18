@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="nuget.config" />
+  </Folder>
+  <Project Path="src/Portfolio.csproj" />
+</Solution>
